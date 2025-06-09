@@ -1,4 +1,4 @@
 {
-   "strapihost": "https://cms.addxp.com",
-   "strapigraphql": "https://cms.addxp.com/graphql"
+    "strapihost": "https://testcms.addact.net",
+    "strapigraphql": "https://testcms.addact.net/graphql"
 }
